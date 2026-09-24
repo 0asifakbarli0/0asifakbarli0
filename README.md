@@ -3,7 +3,7 @@
 Cybersecurity | GRC | ISO 27001 | NIST CSF
 
 ## About me
-- MSc student in Information Security
+- MSc student in Information Systems in Management
 - ISC2 Certified in Cybersecurity (CC)
 - Interested in IT Audit & Risk Management
 
